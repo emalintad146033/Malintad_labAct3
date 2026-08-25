@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Malintad_labAct3", "Malintad_labAct3\Malintad_labAct3.csproj", "{C05EB223-12D0-4548-AD57-4A4691975593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C05EB223-12D0-4548-AD57-4A4691975593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C05EB223-12D0-4548-AD57-4A4691975593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C05EB223-12D0-4548-AD57-4A4691975593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C05EB223-12D0-4548-AD57-4A4691975593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B57B7FF3-DB57-42DA-9538-788A1ABF18DE}
+	EndGlobalSection
+EndGlobal
